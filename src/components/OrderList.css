@@ -1,0 +1,46 @@
+
+.right-title {
+  margin-top: 80px;
+  display: flex;
+}
+.right-title > h3 {
+  margin: 0px;
+}
+.right-title > span {
+  margin-left: 150px;
+  font-size: 12px;
+  padding-top: 9px;
+  color: #3ded97;
+}
+.right-time {
+  display: flex;
+}
+.right-time > span {
+  margin-left: 5px;
+  margin-top: 3px;
+}
+.access-time {
+  color: #3ded97;
+  margin-top: 5px;
+}
+.extraa {
+  height: 50px;
+  border-bottom: 1px solid lightgray;
+}
+.drag-and-drop {
+  border: dashed 2px #3ded97;
+  margin-top: 10px;
+  margin-right: 20px;
+}
+.drag-and-drop > p {
+  text-align: center;
+  color: #3ded97;
+}
+.checkout-total {
+  margin: 20px 0px;
+  display: flex;
+}
+.checkout-total > h4 {
+  margin: 0px;
+  margin-left: 170px;
+}
